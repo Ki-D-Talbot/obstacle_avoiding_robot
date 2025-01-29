@@ -1,7 +1,7 @@
 # obstacle_avoiding_robot
 
 using a pi pico programmed in c++ using the arduino ide
-tank style chassis with a ultrasonic sensor mounted to a servo
+tank style chassis with an ultrasonic sensor mounted to a servo
 
 ```
 while true
